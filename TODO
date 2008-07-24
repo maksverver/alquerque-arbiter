@@ -1,0 +1,3 @@
+- Allow board flipping
+- Allow replaying of log files stored on the server (directly)
+- Force at most one running game on the server at once
